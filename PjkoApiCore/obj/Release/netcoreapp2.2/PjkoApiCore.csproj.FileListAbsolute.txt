@@ -1,0 +1,28 @@
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\bin\Release\netcoreapp2.2\PjkoApiCore.deps.json
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\bin\Release\netcoreapp2.2\PjkoApiCore.runtimeconfig.json
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\bin\Release\netcoreapp2.2\PjkoApiCore.runtimeconfig.dev.json
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\bin\Release\netcoreapp2.2\PjkoApiCore.dll
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\bin\Release\netcoreapp2.2\PjkoApiCore.pdb
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\obj\Release\netcoreapp2.2\PjkoApiCore.csprojAssemblyReference.cache
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\obj\Release\netcoreapp2.2\PjkoApiCore.csproj.CoreCompileInputs.cache
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\obj\Release\netcoreapp2.2\PjkoApiCore.RazorAssemblyInfo.cache
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\obj\Release\netcoreapp2.2\PjkoApiCore.RazorAssemblyInfo.cs
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\obj\Release\netcoreapp2.2\PjkoApiCore.AssemblyInfoInputs.cache
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\obj\Release\netcoreapp2.2\PjkoApiCore.AssemblyInfo.cs
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\obj\Release\netcoreapp2.2\PjkoApiCore.RazorTargetAssemblyInfo.cache
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\obj\Release\netcoreapp2.2\PjkoApiCore.dll
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\obj\Release\netcoreapp2.2\PjkoApiCore.pdb
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\bin\Release\netcoreapp2.2\PjkoApiCore.deps.json
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\bin\Release\netcoreapp2.2\PjkoApiCore.runtimeconfig.json
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\bin\Release\netcoreapp2.2\PjkoApiCore.runtimeconfig.dev.json
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\bin\Release\netcoreapp2.2\PjkoApiCore.dll
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\bin\Release\netcoreapp2.2\PjkoApiCore.pdb
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\obj\Release\netcoreapp2.2\PjkoApiCore.csprojAssemblyReference.cache
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\obj\Release\netcoreapp2.2\PjkoApiCore.csproj.CoreCompileInputs.cache
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\obj\Release\netcoreapp2.2\PjkoApiCore.RazorAssemblyInfo.cache
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\obj\Release\netcoreapp2.2\PjkoApiCore.RazorAssemblyInfo.cs
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\obj\Release\netcoreapp2.2\PjkoApiCore.AssemblyInfoInputs.cache
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\obj\Release\netcoreapp2.2\PjkoApiCore.AssemblyInfo.cs
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\obj\Release\netcoreapp2.2\PjkoApiCore.RazorTargetAssemblyInfo.cache
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\obj\Release\netcoreapp2.2\PjkoApiCore.dll
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\PjkoApiCore\obj\Release\netcoreapp2.2\PjkoApiCore.pdb

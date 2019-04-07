@@ -1,0 +1,15 @@
+{
+  "DataTahun": [
+    {
+      "Id": 1,
+      "Tahun": 2018,
+      "Nmserver": "SIMDAMURA_2018"
+    },
+    {
+      "Id": 2,
+      "Tahun": 2019,
+      "Nmserver": "SIMDAMURA_2019"
+    }
+  ],
+  "TahunAnggaran" : [  2019 ]
+}

@@ -1,0 +1,43 @@
+D:\21.AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\bin\Debug\netcoreapp2.2\Entities.deps.json
+D:\21.AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\bin\Debug\netcoreapp2.2\Entities.dll
+D:\21.AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\bin\Debug\netcoreapp2.2\Entities.pdb
+D:\21.AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.csproj.CoreCompileInputs.cache
+D:\21.AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfoInputs.cache
+D:\21.AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfo.cs
+D:\21.AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.dll
+D:\21.AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.pdb
+D:\21.AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.csprojAssemblyReference.cache
+D:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\bin\Debug\netcoreapp2.2\Entities.deps.json
+D:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\bin\Debug\netcoreapp2.2\Entities.dll
+D:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\bin\Debug\netcoreapp2.2\Entities.pdb
+D:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.csprojAssemblyReference.cache
+D:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.csproj.CoreCompileInputs.cache
+D:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfoInputs.cache
+D:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfo.cs
+D:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.dll
+D:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.pdb
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\bin\Debug\netcoreapp2.2\Entities.deps.json
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\bin\Debug\netcoreapp2.2\Entities.dll
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\bin\Debug\netcoreapp2.2\Entities.pdb
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.csproj.CoreCompileInputs.cache
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfoInputs.cache
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfo.cs
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.dll
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.pdb
+J:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\bin\Debug\netcoreapp2.2\Entities.deps.json
+J:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\bin\Debug\netcoreapp2.2\Entities.dll
+J:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\bin\Debug\netcoreapp2.2\Entities.pdb
+J:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.csprojAssemblyReference.cache
+J:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.csproj.CoreCompileInputs.cache
+J:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfoInputs.cache
+J:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfo.cs
+J:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.dll
+J:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.pdb
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Entities\bin\Debug\netcoreapp2.2\Entities.deps.json
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Entities\bin\Debug\netcoreapp2.2\Entities.dll
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Entities\bin\Debug\netcoreapp2.2\Entities.pdb
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.csproj.CoreCompileInputs.cache
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfoInputs.cache
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.AssemblyInfo.cs
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.dll
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Entities\obj\Debug\netcoreapp2.2\Entities.pdb

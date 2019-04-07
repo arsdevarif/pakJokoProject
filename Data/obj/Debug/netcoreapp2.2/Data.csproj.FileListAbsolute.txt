@@ -1,0 +1,42 @@
+D:\21.AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\bin\Debug\netcoreapp2.2\Data.deps.json
+D:\21.AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\bin\Debug\netcoreapp2.2\Data.dll
+D:\21.AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\bin\Debug\netcoreapp2.2\Data.pdb
+D:\21.AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.csproj.CoreCompileInputs.cache
+D:\21.AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+D:\21.AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfo.cs
+D:\21.AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.dll
+D:\21.AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.pdb
+D:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\bin\Debug\netcoreapp2.2\Data.deps.json
+D:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\bin\Debug\netcoreapp2.2\Data.dll
+D:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\bin\Debug\netcoreapp2.2\Data.pdb
+D:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.csprojAssemblyReference.cache
+D:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.csproj.CoreCompileInputs.cache
+D:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+D:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfo.cs
+D:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.dll
+D:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.pdb
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\bin\Debug\netcoreapp2.2\Data.deps.json
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\bin\Debug\netcoreapp2.2\Data.dll
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\bin\Debug\netcoreapp2.2\Data.pdb
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.csproj.CoreCompileInputs.cache
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfo.cs
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.dll
+H:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.pdb
+J:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\bin\Debug\netcoreapp2.2\Data.deps.json
+J:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\bin\Debug\netcoreapp2.2\Data.dll
+J:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\bin\Debug\netcoreapp2.2\Data.pdb
+J:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.csprojAssemblyReference.cache
+J:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.csproj.CoreCompileInputs.cache
+J:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+J:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfo.cs
+J:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.dll
+J:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.pdb
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Data\bin\Debug\netcoreapp2.2\Data.deps.json
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Data\bin\Debug\netcoreapp2.2\Data.dll
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Data\bin\Debug\netcoreapp2.2\Data.pdb
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.csproj.CoreCompileInputs.cache
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfo.cs
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.dll
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.pdb
