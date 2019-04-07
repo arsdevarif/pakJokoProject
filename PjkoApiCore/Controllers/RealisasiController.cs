@@ -28,7 +28,7 @@ namespace PjkoApiCore.Controllers
         // GET api/values
         [HttpGet]
         //[Route("lrapenjns/{tahun?}/{d1?}/{d2?}/{jnsrek?}")]
-        [Route("lrapenjns/{tahun?}/{d1?}/{d2?}")]
+        [Route("lrapenjns/{tahun?}/{d1?}/{d2?}")]                               //realisasi
         public IActionResult GetLRAjns(string tahun,DateTime d1,DateTime d2,int? jnsrek)
         {
              
@@ -41,7 +41,7 @@ namespace PjkoApiCore.Controllers
                 {
                     SqlConnection conn = konn.GetConn();
                     conn.Open();
-                    SqlCommand cmd = new SqlCommand(" USE " + nmdb + "  DECLARE @tmpTable TABLE(kd_rek_all INT,Kd_Rek_1 tinyint, Kd_Rek_2 tinyint, Kd_Rek_3 tinyint, Kd_Rek_4 tinyint, Kd_Rek_5 tinyint, Anggaran money, Realisasi_Lalu money, Realisasi_Ini money) " +
+                    SqlCommand cmd = new SqlCommand(" USE " +nmdb+ "  DECLARE @tmpTable TABLE(kd_rek_all INT,Kd_Rek_1 tinyint, Kd_Rek_2 tinyint, Kd_Rek_3 tinyint, Kd_Rek_4 tinyint, Kd_Rek_5 tinyint, Anggaran money, Realisasi_Lalu money, Realisasi_Ini money) " +
                                                     " DECLARE @tmpHasil TABLE(KD_REK_ALL INT, Tingkat tinyint, Kd_Rek_1 tinyint, Kd_Rek_2 tinyint, Kd_Rek_3 tinyint, Kd_Rek_4 tinyint, Kd_Rek_5 tinyint, Kd_Rek varchar(20), Nm_Rek varchar(255), Anggaran money, Realisasi_Lalu money, Realisasi_Ini money) " +
                                                     " DECLARE @Kd_Perubahan tinyint, @level int SET @level = 4 " +
                                                     " SELECT @Kd_Perubahan = MAX(Kd_Perubahan) FROM DBO.Ta_RASK_Arsip_Perubahan  WHERE Tahun = '"+tahun+"' AND Kd_Perubahan IN(4, 6, 8) AND Tgl_Perda <=  '" + d2 + "'" +
