@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PjkoApiCore", "PjkoApiCore\PjkoApiCore.csproj", "{23EAD05A-610E-49E4-B8B3-C214278AA526}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PjkoApiCore", "PjkoApiCore\PjkoApiCore.csproj", "{23EAD05A-610E-49E4-B8B3-C214278AA526}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{E1503B4F-998F-4C14-A233-2F60E7D61880}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{E1503B4F-998F-4C14-A233-2F60E7D61880}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{2096FBC7-5530-484E-96B2-46335BE24434}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "Data\Data.csproj", "{2096FBC7-5530-484E-96B2-46335BE24434}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{C54EF632-1223-4F98-B8F8-7C8361FF76F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Services", "Services\Services.csproj", "{C54EF632-1223-4F98-B8F8-7C8361FF76F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

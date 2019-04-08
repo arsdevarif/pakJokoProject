@@ -35,6 +35,7 @@ J:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2
 D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Data\bin\Debug\netcoreapp2.2\Data.deps.json
 D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Data\bin\Debug\netcoreapp2.2\Data.dll
 D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Data\bin\Debug\netcoreapp2.2\Data.pdb
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.csprojAssemblyReference.cache
 D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.csproj.CoreCompileInputs.cache
 D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfoInputs.cache
 D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Data\obj\Debug\netcoreapp2.2\Data.AssemblyInfo.cs

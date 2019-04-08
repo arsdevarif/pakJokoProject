@@ -35,8 +35,8 @@ namespace PjkoApiCore.AppConfig
                         {
 
                             datatahun = new DataTahun();
-                            datatahun.Nmdb = (dtGet["NMDBSIMDA"]).ToString().TrimEnd();
-                            Nmdbsimda = datatahun.Nmdb;
+                            datatahun.Nmdatabase = (dtGet["NMDBSIMDA"]).ToString().TrimEnd();
+                            Nmdbsimda = datatahun.Nmdatabase;
                         }
 
                         dtGet.Close();
