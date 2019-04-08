@@ -28,7 +28,7 @@ namespace PjkoApiCore.Controllers
         // GET api/values
         [HttpGet]
         //[Route("lrapenjns/{tahun?}/{d1?}/{d2?}/{jnsrek?}")]
-        [Route("lrapenjns/{tahun?}/{d1?}/{d2?}")]                               //realisasi
+        [Route("lrapenjns/{tahun?}/{d1?}/{d2?}")]                                //realisasi
         public IActionResult GetLRAjns(string tahun,DateTime d1,DateTime d2,int? jnsrek)
         {
              
@@ -1241,11 +1241,11 @@ namespace PjkoApiCore.Controllers
 
 
         // GET api/values/5
-        [HttpGet("datatahun")]
-        public ActionResult GetTahun()
+        [HttpGet("datatahun/{tahun?}")]
+        public ActionResult GetTahun(string tahun=null)
         {
             var articles = new object();
-            string th = "Tahun";
+            //string th = "2018";
             try
             {
                 //var file = (JObject)JsonConvert.DeserializeObject(System.IO.File.ReadAllText(Directory.GetCurrentDirectory() + "/AppConfig/simdapropertis.json"));
@@ -1254,22 +1254,22 @@ namespace PjkoApiCore.Controllers
 
                 try
                 {
+                    //articles = file["DataTahun"].Children();
+                    var data = (from JObject dt in file["DataTahun"]
+                                select new DataTahun()
+                                {
+                                    Id = Convert.ToInt32(dt["Id"]),
+                                    Tahun = dt["Tahun"].ToString(),
+                                    Nmdatabase = dt["Nmdatabase"].ToString(),
 
-                    articles = file["DataTahun"].Children();
-
-                     
-
-
-
-
-                    return Ok(articles);
+                                }).Where(c=> c.Tahun ==tahun).ToList();    
+                    return Ok(data);
                 }
                 catch (Exception)
                 {
                     string error = "Data Value Json Tidak Ada";
                     return StatusCode(401, error);
                 }
-
             }
             catch (Exception)
             {

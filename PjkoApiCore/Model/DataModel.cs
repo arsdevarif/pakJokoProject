@@ -29,8 +29,8 @@ namespace PjkoApiCore.Model
     {
         public int Id { get; set; }
         public string Tahun { get; set; }
-        public string Nmserver { get; set; }
-        public string Nmdb { get; set; }
+        public string Nmdatabase { get; set; }
+         
     }
     public class ParamRekJenisPen
     {

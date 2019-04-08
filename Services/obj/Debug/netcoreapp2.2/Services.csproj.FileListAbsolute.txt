@@ -35,6 +35,7 @@ J:\21. AspNetCoreProject\01.PjkoProject\PjkoApiCore\Services\obj\Debug\netcoreap
 D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Services\bin\Debug\netcoreapp2.2\Services.deps.json
 D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Services\bin\Debug\netcoreapp2.2\Services.dll
 D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Services\bin\Debug\netcoreapp2.2\Services.pdb
+D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Services\obj\Debug\netcoreapp2.2\Services.csprojAssemblyReference.cache
 D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Services\obj\Debug\netcoreapp2.2\Services.csproj.CoreCompileInputs.cache
 D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Services\obj\Debug\netcoreapp2.2\Services.AssemblyInfoInputs.cache
 D:\21.AspNetCoreProject\01.PjkoProject\01.PjkoProject\PjkoApiCore\Services\obj\Debug\netcoreapp2.2\Services.AssemblyInfo.cs
