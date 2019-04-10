@@ -1239,7 +1239,7 @@ namespace PjkoApiCore.Controllers
             return Ok(dataVM);
         }
 
-
+        public string Nmdbsimda { get; set; }
         // GET api/values/5
         [HttpGet("datatahun/{tahun?}")]
         public ActionResult GetTahun(string tahun=null)
@@ -1262,7 +1262,8 @@ namespace PjkoApiCore.Controllers
                                     Tahun = dt["Tahun"].ToString(),
                                     Nmdatabase = dt["Nmdatabase"].ToString(),
 
-                                }).Where(c=> c.Tahun ==tahun).ToList();    
+                                }).Where(c=> c.Tahun ==tahun).ToList();// mengambil data dalam format array json
+                    Nmdbsimda = data.Select(c => c.Nmdatabase).FirstOrDefault();// jika mengambil data spesifik 
                     return Ok(data);
                 }
                 catch (Exception)

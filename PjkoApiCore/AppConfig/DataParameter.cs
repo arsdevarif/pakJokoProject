@@ -18,29 +18,44 @@ namespace PjkoApiCore.AppConfig
         {
             try
             {
-                DataTahun datatahun = null;
+                //DataTahun datatahun = null;
                 if (!String.IsNullOrEmpty(Tahun))
                 {
+                    //try
+                    //{
+                    //    SqlConnection conn = konn.GetConn();
+                    //    conn.Open();
+                    //    SqlCommand cmd = new SqlCommand(" SELECT isnull((NMDBSIMDA),NULL)NMDBSIMDA  FROM SETDBSIMDA WHERE " +
+                    //                                    " TAHUN=@TAHUN  " +
+                    //                                    " ", conn);
+                    //    cmd.Parameters.AddWithValue("@TAHUN", Tahun);
+
+                    //    SqlDataReader dtGet = cmd.ExecuteReader();
+                    //    while (dtGet.Read())
+                    //    {
+
+                    //        datatahun = new DataTahun();
+                    //        datatahun.Nmdatabase = (dtGet["NMDBSIMDA"]).ToString().TrimEnd();
+                    //        Nmdbsimda = datatahun.Nmdatabase;
+                    //    }
+
+                    //    dtGet.Close();
+                    //    conn.Close();
+                    //    if (String.IsNullOrEmpty(Nmdbsimda)) { Nmdbsimda = " "; }
+                    var file = JObject.Parse(System.IO.File.ReadAllText(Directory.GetCurrentDirectory() + "/AppConfig/simdapropertis.json"));
+                    
                     try
                     {
-                        SqlConnection conn = konn.GetConn();
-                        conn.Open();
-                        SqlCommand cmd = new SqlCommand(" SELECT isnull((NMDBSIMDA),NULL)NMDBSIMDA  FROM SETDBSIMDA WHERE " +
-                                                        " TAHUN=@TAHUN  " +
-                                                        " ", conn);
-                        cmd.Parameters.AddWithValue("@TAHUN", Tahun);
+                        //articles = file["DataTahun"].Children();
+                        var data = (from JObject dt in file["DataTahun"]
+                                    select new DataTahun()
+                                    {
+                                        Id = Convert.ToInt32(dt["Id"]),
+                                        Tahun = dt["Tahun"].ToString(),
+                                        Nmdatabase = dt["Nmdatabase"].ToString(),
 
-                        SqlDataReader dtGet = cmd.ExecuteReader();
-                        while (dtGet.Read())
-                        {
-
-                            datatahun = new DataTahun();
-                            datatahun.Nmdatabase = (dtGet["NMDBSIMDA"]).ToString().TrimEnd();
-                            Nmdbsimda = datatahun.Nmdatabase;
-                        }
-
-                        dtGet.Close();
-                        conn.Close();
+                                    }).Where(c => c.Tahun == Tahun).ToList();
+                        Nmdbsimda = data.Select(c=>c.Nmdatabase).FirstOrDefault();
                         if (String.IsNullOrEmpty(Nmdbsimda)) { Nmdbsimda = " "; }
                     }
                     catch(Exception)
